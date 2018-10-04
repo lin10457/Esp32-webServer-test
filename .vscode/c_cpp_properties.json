@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "ARDUINO=10800"
+            ],
+            "includePath": [
+                "${workspaceRoot}",
+                "C:\\Users\\301A01\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.0\\**",
+                "C:\\Users\\301A01\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Users\\301A01\\Documents\\Arduino\\hardware\\tools\\**",
+                "C:\\Users\\301A01\\Documents\\Arduino\\libraries\\**",
+                "C:/Users/301A01/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.0/tools/sdk/include/newlib"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
