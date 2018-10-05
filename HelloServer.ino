@@ -3,8 +3,8 @@
 #include <WebServer.h>
 #include <ESPmDNS.h>
 
-const char* ssid = "icheerus";
-const char* password = "a0963170671";
+const char* ssid = "IOTAP";
+const char* password = "raspberry";
 
 WebServer server(80);
 
